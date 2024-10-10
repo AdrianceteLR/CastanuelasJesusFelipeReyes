@@ -1,0 +1,16 @@
+[
+  {
+      "id": 1,
+      "name": "Castañuela Tradicional",
+      "description": "Hecha a mano con madera de alta calidad.",
+      "price": 50.00,
+      "imageUrl": "/assets/images/castanuela1.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Castañuela Flamenca",
+      "description": "Diseño especial para profesionales.",
+      "price": 75.00,
+      "imageUrl": "/assets/images/castanuela2.jpg"
+  }
+]

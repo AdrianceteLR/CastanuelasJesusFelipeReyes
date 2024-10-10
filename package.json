@@ -1,0 +1,12 @@
+{
+  "name": "castanuelas-jesus-felipe-reyes",
+  "version": "1.0.0",
+  "description": "Tienda de castañuelas artesanales",
+  "scripts": {
+    "test": "node tests/product_repository.test.js"
+  },
+  "author": "Adrián",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
